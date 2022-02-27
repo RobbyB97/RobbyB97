@@ -5,7 +5,7 @@
 #### A little about me 😄
 
 - 💻 I'm a full stack developer at [Visionable](https://visionable.com/).
-- 🔭 I’m currently working on [an interactive AI tutorial](https://github.com/robbyb97/intro-to-ai).
+- 🔭 I’m currently working on [an interactive SVG world map for React](https://github.com/robbyb97/react-svg-world-map).
 - 🎨 I enjoy drawing, reading, and hiking.
 - 🍥 I'm a huge anime nerd.
 
