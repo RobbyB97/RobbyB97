@@ -5,7 +5,6 @@
 #### A little about me 😄
 
 - 💻 I'm a full stack developer at [Visionable](https://visionable.com/).
-- 🔭 I’m currently working on [an interactive SVG world map for React](https://github.com/robbyb97/react-svg-world-map).
 - 🎨 I enjoy drawing, reading, and hiking.
 - 🍥 I'm a huge anime nerd.
 
@@ -14,8 +13,6 @@
 #### 📫 Here's my links
 
 - [Portfolio](https://bergers.dev)
-- [Twitch](https://www.twitch.tv/robbybergers) (I stream sometimes)
-- [YouTube](https://www.youtube.com/channel/UCIumKUalxDLvjgV3eCzAf1g)
 
 <!--
 **RobbyB97/RobbyB97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
